@@ -11745,3 +11745,9 @@ html {
 .image-center {
   text-align: center;
 }
+
+.btn-group-toggle .btn.active {
+  background-color: var(--bs-primary);
+  color: white;
+  border-color: var(--bs-primary);
+}
